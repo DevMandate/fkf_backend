@@ -58,6 +58,7 @@ Admins can:
 
 ## Project File Structure
 
+```
 /project-root
 │
 ├── index.html              # Main HTML file
@@ -76,8 +77,7 @@ Admins can:
 │   └── utils.js            # Helper functions (loader/spinner)
 │
 └── README.md               # Project documentation
-
-
+```
 ---
 
 ## Technologies Used
