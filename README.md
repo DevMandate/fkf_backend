@@ -20,7 +20,7 @@ The system allows referees to take a timed Laws of the Game test, prevents multi
 
 ### Centralized Results Storage
 - All results are saved to Google Sheets
-- Results are shared across all users and devices
+- Results are viewed only by authorized admins
 - Data persists even if browser data is cleared
 
 ### Admin Leaderboard

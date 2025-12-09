@@ -1,4 +1,4 @@
-const ADMIN_USERS = ["wafulacaleb233@gmail.com"];
+const ADMIN_USERS = ["wafulacaleb233@gmail.com", "lizwambuiartist@gmail.com"];
 
 async function saveResult(name, score) {
   await apiPost({
